@@ -33,9 +33,9 @@ Cada tipo de maker tiene una habilidad única (en la parte inferior, encima de s
 Las habilidades pueden usarse en cualquier momento de la partida.
 
 # TIPOS DE MAKER
-| Nº| TIPO| EFECTO (Maker sin proyecto)| HABILIDAD| EFECTO DE HABILIDAD|
+| Nº| TIPO| EFECTO (MAKER SIN PROYECTO)| NOMBRE DE HABILIDAD| EFECTO DE HABILIDAD|
+| ----- | ---- |----- | ---- | ----- |
 | 1| Hacker Ninja| Tipo de Maker: 3 o menos| Hackeo de Github| Interrumpe una habilidad cancelando su efecto|
-
 | 2 | Domador de Robots       | Tipo de Maker: 5 o superior|Terminator       |Descarta al maker sin proyecto actual|
 | 3 | Manitas Reparador      |  Tipo de Maker: 3 a 5       |Ñapa             |Renueva la habilidad de uno de tus makers|
 | 4 | Señor de los Electrones | Tipo de Maker: Número impar|Soldadura fría   |Otro jugador no puede fichar al maker sin proyecto|
